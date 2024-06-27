@@ -24,5 +24,8 @@ struct DeepLinkPracticeApp: App {
                     print(deepLinkManager.selectedRestaurant.id)
                 }
         }
+        
+        
+        
     }
 }
